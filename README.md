@@ -1,2 +1,2 @@
-# Python---User-Input-String-Concatenaiton-Formating-Typecasting-
-In which file you will learn about Python (User Input) &amp; all about Strings &amp; its typecasting, formating, concatenation, F-mehtod
+# Python---Learn Python Basic to Advance
+In which repository you will learn about Python from Basic to Advance, I will upload all of my PYTHON programming code here. 
